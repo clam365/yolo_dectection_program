@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>04.jpg</filename>
+	<path>C:\Users\chris\OneDrive\Documents\yolo_dectection_program\1_datapreparation\data_images\04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>531</xmin>
+			<ymin>353</ymin>
+			<xmax>1564</xmax>
+			<ymax>1439</ymax>
+		</bndbox>
+	</object>
+</annotation>
